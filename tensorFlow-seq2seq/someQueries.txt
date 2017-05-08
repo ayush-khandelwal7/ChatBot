@@ -1,0 +1,36 @@
+user :donald trump won last nights presidential debate according to snap online polls
+***
+ query : donald trump won last nights presidential debate according to snap online polls; 
+ reply : thought he was a joke
+user :who won the first presidential debate
+***
+ query : who won the first presidential debate; 
+ reply : trump will be a better time for a man
+user :i want to go home
+***
+ query : i want to go home; 
+ reply : the first time is a good game
+user :environment protection is crutial
+***
+ query : environment protection is unk; 
+ reply : is that a joke
+user :hillary could have won
+***
+ query : hillary could have won; 
+ reply : the only party of the debate is a criminal
+user :why did trump win
+***
+ query : why did trump win; 
+ reply : because he is a pathological liar
+user :the important ones are still here
+***
+ query : the important ones are still here; 
+ reply : i dont think so
+user :happy birthday
+***
+ query : happy birthday; 
+ reply : thank you 
+user :its my birthday
+***
+ query : its my birthday; 
+ reply : happy birthday 
